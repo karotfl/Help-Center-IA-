@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+python-multipart
+xlsxwriter
+langchain
+langchain-community
+langchain-google-genai
+python-dotenv
+python-docx
